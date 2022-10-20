@@ -1,0 +1,7 @@
+cd kcp-proxy-poc
+echo "Running Proxy in the background... see proxy.log for all proxy logs"
+sh run 2>&1 > ../proxy.log &
+cd ../hac-dev
+echo "Running Hac-Dev"
+npm run start:prod:beta 
+

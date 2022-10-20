@@ -1,0 +1,4 @@
+rm -rf hac-dev
+rm -rf kcp-proxy-poc
+rm -rf proxy.log 
+
