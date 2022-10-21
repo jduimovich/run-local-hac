@@ -9,7 +9,7 @@ You also need `oc`, `kubectl`, and `node.js` installed
 # Install
 Clone this repo and run `bash install`
 
-#Run
+# Run
 
 Make sure you are connected to kcp-stable and then run 
 
