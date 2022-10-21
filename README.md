@@ -7,7 +7,7 @@ kcps-stable
 You also need `oc`, `kubectl`, and `node.js` installed
 
 You need to be connected to RH VPN.
-You also need these in your hosts file. Note, if you are connecting to a VM or other non-local machine, you can simply point this to the machine IP
+You also need these in your `/etc/hosts` file. Note, if you are connecting to a VM or other non-local machine, you can simply point this to the machine IP
 ```
 127.0.0.1   prod.foo.redhat.com
 127.0.0.1   stage.foo.redhat.com
