@@ -1,6 +1,6 @@
 # run-local-hac
 
-#Pre-reqs
+# Pre-reqs
 
 Install app-studio on your kcp-stable, the easiest way is to run the `create-user-workspace.sh appstudio` script from infra-deployments when logged into 
 kcps-stable
