@@ -6,6 +6,13 @@ Install app-studio on your kcp-stable, the easiest way is to run the `create-use
 kcps-stable
 You also need `oc`, `kubectl`, and `node.js` installed
 
+You need to be connected to RH VPN.
+You also need these in your hosts file. Note, if you are connecting to a VM or other non-local machine, you can simply point this to the machine IP
+```
+127.0.0.1   prod.foo.redhat.com
+127.0.0.1   stage.foo.redhat.com
+```
+
 # Install
 Clone this repo and run `bash install`
 
