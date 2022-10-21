@@ -14,3 +14,7 @@ Clone this repo and run `bash install`
 Make sure you are connected to kcp-stable and then run 
 
 `bash run-hac-and-proxy`
+
+connect to https://prod.foo.redhat.com:1337/beta/hac/app-studio 
+
+It may take upto 60 seconds for the webpack to compile hac-dev. 
